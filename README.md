@@ -1,6 +1,9 @@
 # Hi there 👋
 
-### Check out my website: https://catalincd.github.io/
+
+### Welcome to my GitHub page
+### Website: https://catalincd.github.io/
+### Currently working on a Python project called 'Operation-Santa'
 
 <!--
 **catalincd/catalincd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
