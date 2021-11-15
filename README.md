@@ -1,6 +1,6 @@
-### Hi there 👋
+# Hi there 👋
 
-## Check out my website: https://catalincd.github.io/
+### Check out my website: https://catalincd.github.io/
 
 <!--
 **catalincd/catalincd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
